@@ -1,0 +1,5 @@
+config/api_keys.json
+config/certs/
+__pycache__/
+*.pyc
+memory/long_term.json
